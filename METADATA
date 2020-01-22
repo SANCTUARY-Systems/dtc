@@ -16,4 +16,6 @@ third_party {
   # The `dtc` tool is GPL only, but `libfdt` is dual GPL/BSD.
   # We statically link only code from `libfdt`.
   license_type: RESTRICTED
+  local_modifications:
+    "Added LICENSE, BUILD.gn and hafnium_inc to build with Hafnium."
 }
