@@ -1,6 +1,7 @@
 Hafnium additions to libfdt (BUILD.gn and headers under hafnium_inc) are
-licensed under the Apache License 2.0. The license of the upstream code is
-described below.
+licensed under a BSD-style license that can be found in the LICENSE file of the
+main Hafnium repository or at https://opensource.org/licenses/BSD-3-Clause. The
+license of the upstream code is described below.
 
 ================================================================================
 README.license
