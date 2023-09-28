@@ -8,7 +8,7 @@ config("libfdt_config") {
   visibility = [ ":gtest" ]
   include_dirs = [
     "libfdt",
-    "hafnium_inc",
+    "peregrine_inc",
   ]
   cflags = [
     "-Wno-zero-length-array",

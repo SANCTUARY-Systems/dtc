@@ -8,8 +8,8 @@
 
 #pragma once
 
-#include "hf/check.h"
-#include "hf/std.h"
+#include "pg/check.h"
+#include "pg/std.h"
 
 static inline size_t strlen(const char *s)
 {
